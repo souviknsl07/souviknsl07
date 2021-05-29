@@ -1,5 +1,6 @@
-### Hi there 👋
-### I am Souvik Nath
+### Hi there 👋, I'm Souvik
+
+
 
 <!--
 **souviknsl07/souviknsl07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,3 +16,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![Github stats](https://github-readme-stats.vercel.app/api?username=souviknsl07)<br/>
+![counter](https://img.shields.io/static/v1?label=Profile-Views&message=${counter}&color=green.m.pipedream.net)
