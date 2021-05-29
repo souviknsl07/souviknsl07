@@ -1,7 +1,7 @@
 ## Hi there 👋, I'm [*Souvik*](https://github.com/souviknsl07)
 ### About Me
 
-- 👨‍🎓 An enthusiastic learner, Full-Stack Web Dev, and a Computer Science & Engineering Undergrad.
+- 👨‍🎓 An enthusiastic learner, Full-Stack Web Dev, and a Computer Science & Engineering B.Tech Undergrad.
 - 👨‍💻 MERN, Nextjs, Firebase, Docker, and also started exploring: `React Native and DevOps`.
 - 🤝 Passionate about contributing and learning new things.
 
