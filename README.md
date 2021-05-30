@@ -2,7 +2,7 @@
 ### About Me
 
 - 👨‍🎓 An enthusiastic learner, Full-Stack Web Dev, and a Computer Science & Engineering B.Tech Undergrad.
-- 👨‍💻 MERN, Nextjs, Firebase, Docker, and also started exploring: `React Native and DevOps`.
+- 👨‍💻 MERN, Nextjs, Firebase, Docker, and also started exploring: `ReactNative and DevOps`.
 - 🤝 Passionate about contributing and learning new things.
 
 ### My Experiences
