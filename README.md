@@ -13,7 +13,8 @@
  
 
 ### My Experiences
-- Worked as a Web Dev for an NGO `ADG ATELIER`.<br/>
+- Worked as a Web Dev for an NGO `ADG ATELIER`.
+- Participated in Major League Hacking SharkHacks3.</br>
  
   `Coming Soon...`
 
