@@ -9,7 +9,7 @@
 
 - 👨‍🎓 Open-source enthusiast, and an enthusiastic learner, Full-Stack Web Dev, and a Computer Science & Engineering B.Tech Undergrad.
 - 👨‍💻 MERN, Nextjs, Firebase, and also started exploring: `ReactNative and DevOps`.
-- 🤝 Passionate about contributing and learning new things. Contributed [@react-native-elements](https://github.com/react-native-elements) [@codeforcauseorg](https://github.com/codeforcauseorg)
+- 🤝 Passionate about contributing and learning new things. Contributing [@react-native-elements](https://github.com/react-native-elements) [@codeforcauseorg](https://github.com/codeforcauseorg)
  
 
 ### My Experiences
