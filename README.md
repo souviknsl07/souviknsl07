@@ -9,12 +9,12 @@
 
 - 👨‍🎓 Open-source enthusiast, and an enthusiastic learner, Full-Stack Web Dev, and a Computer Science & Engineering B.Tech Undergrad.
 - 👨‍💻 MERN, Nextjs, Firebase, and also started exploring: `ReactNative and DevOps`.
-- 🤝 Passionate about contributing and learning new things. Contributing [@react-native-elements](https://github.com/react-native-elements) [@codeforcauseorg](https://github.com/codeforcauseorg)
+- 🤝 Passionate about contributing and learning new things.
  
 
 ### My Experiences
-- Worked as a Web Dev for an NGO `ADG ATELIER`.
-- Working as a Full-Stack Web Dev at Anetazo Technologies.
+- Worked as a Front-End Web Dev for an NGO `ADG ATELIER`.
+- Worked as a Full-Stack Web Dev at Anetazo Technologies.
 - Participated in Major League Hacking SharkHacks3 - Project -> [SharkSaw Puzzle](https://github.com/souviknsl07/SharkSaw-Puzzle).</br>
  
   `Coming Soon...`
