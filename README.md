@@ -15,7 +15,8 @@
 ### My Experiences
 - Worked as a Front-End Web Dev for an NGO `ADG ATELIER`.
 - Worked as a Full-Stack Web Dev at Anetazo Technologies.
-- Participated in Major League Hacking SharkHacks3 - Project -> [SharkSaw Puzzle](https://github.com/souviknsl07/SharkSaw-Puzzle).</br>
+- Participated in Major League Hacking SharkHacks3 - Project -> [SharkSaw Puzzle](https://github.com/souviknsl07/SharkSaw-Puzzle).
+- Working as a React Dev at Spotmies LLP.</br>
  
   `Coming Soon...`
 
