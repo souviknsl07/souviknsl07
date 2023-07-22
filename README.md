@@ -21,5 +21,5 @@
  
   `Coming Soon...`
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=souviknsl07)<br/>
+<!-- ![Github stats](https://github-readme-stats.vercel.app/api?username=souviknsl07)<br/>-->
 ![](https://komarev.com/ghpvc/?username=souviknsl07&label=Visitors&style=plastic)
