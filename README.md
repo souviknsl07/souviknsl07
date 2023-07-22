@@ -7,7 +7,7 @@
 
 ### About Me
 
-- 👨‍🎓 Open-source enthusiast, and an enthusiastic learner, Full-Stack Web Dev, and a Computer Science & Engineering B.Tech Undergrad.
+- 👨‍🎓 Open-source enthusiast, and an enthusiastic learner, Full-Stack Web Dev, and a Computer Science & Engineering B.Tech Grad.
 - 👨‍💻 MERN, Nextjs, Firebase, Solidity, Web3 and also started exploring: `DevOps`.
 - 🤝 Passionate about contributing and learning new things.
  
