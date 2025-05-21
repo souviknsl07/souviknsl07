@@ -6,7 +6,7 @@
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='30' width="40">](https://souvik-nath.web.app)
 
 ### About Me 
-- 🛠️ Building robust and scalable pipelines for smooth real-time ingestion and processing of Direct broadcast satellite's data to create valuable business insights and ML models out of it.
+- 🛠️ Currently building and optimizing robust, scalable data pipelines for real-time ingestion and processing of Direct Broadcast Satellite (DBS) data, transforming raw streams into actionable business insights and powering machine learning models.
 - 👨‍🎓 Open-source enthusiast, and an enthusiastic learner, Full-Stack Web Dev, Blockchain and IOT enthusiast, and a Computer Science & Engineering B.Tech Grad.
 - 👨‍💻 MERN, Nextjs, Firebase, Solidity, Web3, JAVA, IOT.
 - 🤝 Passionate about contributing and learning new things.
