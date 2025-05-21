@@ -7,8 +7,8 @@
 
 ### About Me 
 - 🛠️ Currently building and optimizing robust, scalable data pipelines for real-time ingestion and processing of Direct Broadcast Satellite (DBS) data, transforming raw streams into actionable business insights and powering machine learning models.
-- 👨‍🎓 Open-source enthusiast, and an enthusiastic learner, Full-Stack Web Dev, Blockchain and IOT enthusiast, and a Computer Science & Engineering B.Tech Grad.
-- 👨‍💻 MERN, Nextjs, Firebase, Solidity, Web3, JAVA, IOT.
+- 👨‍🎓 An enthusiastic learner, Full-Stack Web Dev, Blockchain and IOT enthusiast, and a Computer Science & Engineering B.Tech Grad.
+- 👨‍💻 Spark, AWS, Databricks, Redshift, MERN, Nextjs, Firebase, Solidity, Web3, JAVA, IOT.
 - 🤝 Passionate about contributing and learning new things.
  
 
