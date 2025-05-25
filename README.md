@@ -16,7 +16,7 @@
 - Software Engineer (Data) at Dish Network.
 - Worked as a React and Blockchain Dev at Spotmies LLP.
 - Worked as a Full-Stack Web Dev at Anetazo Technologies.
-- Participated in Major League Hacking SharkHacks3 - Project -> [SharkSaw Puzzle](https://github.com/souviknsl07/SharkSaw-Puzzle).</br>
+- Participated in Major League Hacking Sprint Hackathon, SharkHacks3.</br>
  
 
 
